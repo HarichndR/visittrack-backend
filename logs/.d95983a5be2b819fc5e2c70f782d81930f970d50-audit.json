@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/devHarish/event mangmnet/backend/logs/.d95983a5be2b819fc5e2c70f782d81930f970d50-audit.json",
+    "files": [
+        {
+            "date": 1775670281793,
+            "name": "/Users/devHarish/event mangmnet/backend/logs/error-2026-04-08.log",
+            "hash": "958a0892478f5bb70e79dc5edbf68af4c174f71504d175de601790b9a5b8f20a"
+        },
+        {
+            "date": 1775702431967,
+            "name": "/Users/devHarish/event mangmnet/backend/logs/error-2026-04-09.log",
+            "hash": "979d81fdb12dbc6e4c99f0e04825da0a8e6f35ac5b055ff30fd436de49036c67"
+        },
+        {
+            "date": 1775759752678,
+            "name": "/Users/devHarish/event mangmnet/backend/logs/error-2026-04-10.log",
+            "hash": "56e7a092c378b368708ae22f58596978bd0ba607bd799ee4513a837fe1d06ae3"
+        },
+        {
+            "date": 1775896557183,
+            "name": "/Users/devHarish/event mangmnet/backend/logs/error-2026-04-11.log",
+            "hash": "2945c5edbdccf0239b04814e6152b8a6a748f1b4992ebd0ce2b7e6d44b42d11f"
+        },
+        {
+            "date": 1775968226338,
+            "name": "/Users/devHarish/event mangmnet/backend/logs/error-2026-04-12.log",
+            "hash": "2f15d64f342dd2bc9c61c06e6d82d2fe181f7b283ed719bf92426b9a5d4614ef"
+        },
+        {
+            "date": 1776021625604,
+            "name": "/Users/devHarish/event mangmnet/backend/logs/error-2026-04-13.log",
+            "hash": "7df6c9f78ce34dc7e30695461cec9cb7d4fe09d0a653adee87d595720c911a40"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,10 @@
+◇ injected env (7) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+[32minfo[39m: MongoDB Connected: ac-jcq97vp-shard-00-00.dg1eofu.mongodb.net {"service":"visitrack","timestamp":"2026-04-11 22:33:40"}
+[32minfo[39m: In-memory Cache Initialized {"service":"visitrack","timestamp":"2026-04-11 22:33:40"}
+[32minfo[39m: VisiTrack Server running on port 5001 {"service":"visitrack","timestamp":"2026-04-11 22:33:40"}
+[31merror[39m: HEAD /api/v1/health - Not found {"service":"visitrack","timestamp":"2026-04-11 22:33:44"}
+[0mHEAD /api/v1/health [33m404[0m 7.904 ms - 1010[0m
+[31merror[39m: GET /api/v1 - Not found {"service":"visitrack","timestamp":"2026-04-11 22:38:35"}
+[0mGET /api/v1 [33m404[0m 1.477 ms - 1010[0m
+[31merror[39m: GET /favicon.ico - Not found {"service":"visitrack","timestamp":"2026-04-11 22:38:35"}
+[0mGET /favicon.ico [33m404[0m 0.828 ms - 1011[0m
