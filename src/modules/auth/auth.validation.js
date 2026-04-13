@@ -8,6 +8,8 @@ const register = {
     role: Joi.string().valid('ADMIN', 'ORGANIZER', 'STAFF', 'EXHIBITOR', 'VISITOR'),
     organizationName: Joi.string().allow('', null),
     phone: Joi.string().allow('', null),
+    website: Joi.string().allow('', null),
+    description: Joi.string().allow('', null),
   }),
 };
 
